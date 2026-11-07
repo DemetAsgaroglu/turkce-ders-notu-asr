@@ -85,10 +85,19 @@ def main():
     # aynı video farklı aramalarda çıkarsa bir kez işlenir
     seen_ids = set()
 
+    # tarama yarıda kaldıysa önceki satırlar korunur, bu videolara tekrar bakılmaz
+    is_resume = OUTPUT_PATH.exists()
+    if is_resume:
+        with open(OUTPUT_PATH, newline="", encoding="utf-8-sig") as file:
+            seen_ids = {row["url"].split("v=")[-1] for row in csv.DictReader(file)}
+        print(f"önceki taramadan {len(seen_ids)} video bulundu, devam ediliyor")
+
     # utf-8-sig ile excel türkçe karakterleri doğru gösterir
-    with open(OUTPUT_PATH, "w", newline="", encoding="utf-8-sig") as file:
+    encoding = "utf-8" if is_resume else "utf-8-sig"
+    with open(OUTPUT_PATH, "a", newline="", encoding=encoding) as file:
         writer = csv.DictWriter(file, fieldnames=COLUMNS)
-        writer.writeheader()
+        if not is_resume:
+            writer.writeheader()
 
         for query in QUERIES:
             # her konu önce cc filtresiyle, sonra filtresiz aranır
