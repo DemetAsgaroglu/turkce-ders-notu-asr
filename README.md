@@ -37,4 +37,10 @@ Aday videoları taramak için (video indirmez, sonucu `veri/adaylar.csv` dosyas�
 python kod/veri/aday_tara.py
 ```
 
+Seçilen videoların sesini indirmek için (`veri/lisans/videolar.csv` listesini kullanır):
+
+```
+python kod/veri/ses_indir.py
+```
+
 Diğer adımlar tamamlandıkça buraya eklenecek.

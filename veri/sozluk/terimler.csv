@@ -1,0 +1,56 @@
+terim,varyantlar,dil
+array,,en
+stack,,en
+queue,,en
+linked list,,en
+pointer,,en
+node,,en
+tree,,en
+binary tree,,en
+binary search,,en
+heap,,en
+hash,,en
+hash table,,en
+graph,,en
+index,indeks,en
+loop,,en
+class,,en
+object,,en
+method,,en
+function,,en
+string,,en
+integer,,en
+recursion,,en
+push,,en
+pop,,en
+insert,,en
+delete,,en
+search,,en
+sort,,en
+merge sort,,en
+quick sort,,en
+bubble sort,,en
+parent,,en
+child,,en
+root,,en
+leaf,,en
+dizi,,tr
+yığın,,tr
+kuyruk,,tr
+bağlı liste,,tr
+işaretçi,,tr
+düğüm,,tr
+ağaç,,tr
+ikili ağaç,,tr
+ikili arama,,tr
+özyineleme,,tr
+fonksiyon,,tr
+algoritma,,tr
+karmaşıklık,,tr
+döngü,,tr
+değişken,,tr
+sınıf,,tr
+nesne,,tr
+sıralama,,tr
+bellek,,tr
+çizge,graf,tr
