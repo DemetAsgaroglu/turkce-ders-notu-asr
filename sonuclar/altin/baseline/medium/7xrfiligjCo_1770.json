@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1770.0,
+ "bitis": 2220.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, pointer ve yıldız operatörlerini anlatıyor. Değişkenler bellek hücrelerini temsil ederken, pointerler adresleri temsil eder. Fonksiyonlar, kod parçalarını isimlendirerek tekrar kullanılmasını sağlar. Pointer ve yıldız operatörleri, bellek yönetimi ve kod tekrar kullanımında kullanılır. Fonksiyonlar, karmaşıklığı azaltmak ve kodun tekrar kullanılmasını kolaylaştırmak için önemlidir.",
+ "sorular": "Yıldız operatörünü ne anlama geldirdi?  \nAmpersan operatörünü ne anlama geldirdi?  \nDeğişkenlerin bellek hücrelerini temsil ettiğini nasıl anlattın?"
+}

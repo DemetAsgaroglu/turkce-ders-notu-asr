@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1950.0,
+ "bitis": 2220.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Ders, pointer'ların neden kullanıldığını ve faydalarını anlatıyor. Pointer, bellek hücrelerini temsil eder ve fonksiyonlarla birlikte kod tekrar kullanımını sağlar. Fonksiyonlar, karmaşıklığı yönetmek için önemli bir araçtır. Pointer'lar, fonksiyonların parametre olarak geçmesini sağlar. Pointer'ların kullanılmaması, programlama derslerini zorlaştırmaya neden olur. Pointer'lar, fonksiyonların asla yazılamamasına neden olabilir.",
+ "sorular": "İşaretçilerin varlık nedenlerini anlatmak için konuya fonksiyonlardan girmemiz gerekir mi?  \nSorularda fonksiyonlar ne işe yarar?  \nFonksiyonlar, kodun tekrar kullanımını sağlar mı?"
+}

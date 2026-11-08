@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 480.0,
+ "bitis": 930.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bir set nesnesinin indis ile erişilememe ve eleman silme işlemleriyle ilgili açıklamalar içeriyor. Set, indis ile erişilemeyen bir veri yapıdır. Eleman silme için discard ve remove metodları kullanılır. Discard eleman yoksa hata vermez, remove eleman yoksa hata verir. Pop metoduyla setten bir eleman çıkarılabilir. Clear metoduyla setin tüm elemanları silinir. Set, elemanların sırasız ve tekrarsız olduğu bir veri yapısıdır.",
+ "sorular": "Set bir deyince mesela hatırlayın olmayan bir eleman olursa eğer hata vermez mi?  \nSet 1 'in sıfırıncı elemanı dersek ne olur?  \nSet object is not subscriptable ne anlama gelir?"
+}

@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde diziler ve karakter dizileri (string) ile ilgili konuları anlatır. 5 elemanlı bir dizi tanımlanmışsa, indeksler 0-4 arasında olur. Olmayan bir indeks yazdırıldığında, çöp değeri (sıfır) gelir. Dizilerin boş bölgeleri otomatik olarak sıfırla doldurulur. Char dizileri de benzer şekilde işlenir. String ifadeleri karakter dizileriyle yazdırılır ve doğrudan %C formatlayıcısı kullanılır. Stringler, aslında karakter dizileridir ve köşeli parantezlerle indekslenir.",
+ "sorular": "Ne zaman bir dizi tanımladığımızda, dizinin son indeksinden büyük bir indeks yazdırdığımızda ne olur?  \nNe zaman bir dizi tanımladığımızda, dizinin son indeksinden büyük bir indeks yazdırdığımızda ne olur?  \nNe zaman bir dizi tanımladığımızda, dizinin son indeksinden büyük bir indeks yazdırdığımızda ne olur?"
+}

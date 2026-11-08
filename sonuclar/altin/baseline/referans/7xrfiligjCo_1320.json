@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1320.0,
+ "bitis": 1770.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, yıldız (**) ve ampersand (&) operatörlerinin kullanımı ve davranışlarını açıklıyor. Yıldız operatörü, bir değişkenin adresini ifade eder, ampersand ise bir değerin adresini verir. Örnekte, yıldız x ifadesi, x’in değeri iki olduğu durumda, x’in adresindeki değeri gösterir. Dört adresindeki değer on bir olur. Bu örnekte, yıldız yıldız x ifadesi, x’in adresindeki değerin adresini verir. Dersin teknik terimleri korunarak, bu operatörlerin kullanımını ve davranışlarını anlatıyor.",
+ "sorular": "Yıldız x dersem ne anlarsınız?  \nYıldız x dersem ne anlarsınız?  \nYıldız x dersem ne anlarsınız?"
+}

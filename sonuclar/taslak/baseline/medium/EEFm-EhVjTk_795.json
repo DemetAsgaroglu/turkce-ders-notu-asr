@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 795.0,
+ "bitis": 1155.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde dizilerin davranışlarını anlatıyor. Dizinin indeksinden büyük bir değer yazdırıldığında, çöp değeri (0) gelir. C dilinde dizilerin boş kısmaları varsayılan olarak sıfırlanır. Karakter dizileri için ise '\\0' (ters slash) ile doldurulur. Dizileri kullanarak stringler yazdırılır, çünkü C dilinde doğrudan string tipi yoktur. Char dizileri ile metin yazdırılır, %s formatlayıcısı ile tamamını, %c ile tek bir karakteri yazdırabiliriz.",
+ "sorular": "Ne gelecek? Yine sıfır geldi.  \nEğer biz dizinin indeksinden büyük bir İndeksi yazdırmak istersek ne görürüz?  \nBu adresdeki remde daha önce kalmış olan çöp bir değeri görürüz.  \nSiz bir dizi tanımladığınızda C programlama dili bu boşlukları varsayılan değer olarak sıfırla dolduruyor.  \nC programlama dilinde doğrudan string tipinde bir değişken tipimiz yok.  \nC programlama dilinde stringleri yazdırmak için çar dizisi kullanıyoruz.  \nC programlama dilinde bir dizi tanımlamak için köşeli parantezleri kullanıyoruz."
+}

@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1320.0,
+ "bitis": 1770.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, yıldız ve ampersand operatörlerinin bellek adreslerini ve değerlerini yönetmede nasıl kullanıldığını açıklıyor. Yıldız operatörü, bir adresin içeriğini temsil ederken, ampersand operatörü bir değişkenin adresini verir. Örneğin, `*x` bir değişkenin değeri, `&x` ise adresi ifade eder. Bu operatörler, bellek hücresinin adresini ve içeriğini karıştırarak kullanılabilecek şekilde açıklanıyor. Metin, bu operatörlerin kullanımını ve sonuçlarını örneklerle destekliyor. Metin, bu konuyu anlatırken teknik terimleri koruyor.",
+ "sorular": "Bu durumda yıldız x dersem ne anlarsınız?  \nBu hikayeye göre yıldız x dersem ne anlarsınız?  \nYıldız x dersem ne anlarsınız?"
+}

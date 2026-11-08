@@ -1,0 +1,10 @@
+{
+ "video_id": "xSD3j9aUPk8",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, iki for döngüsünü iç içe kullanarak bir döngü yapısını açıklıyor. İlk for döngüsünde i değişkeni 0'dan 4'e kadar artıyor, ikinci for döngüsünde j değişkeni 0'dan 3'e kadar artıyor. Her bir döngüde i ve j değerleri yazdırılıyor. Ayrıca, iki değişkenin değerlerini birbirine atamak için geçici bir değişken kullanılıyor. Bu, iki değişkenin değerlerinin yer değişimini sağlıyor. Son olarak, bu kavramları kullanarak Bubble Sort algoritması açıklanıyor.",
+ "sorular": "şöyle koda bakacak olursak ilk for giriyor i sıfır i beşten küçük mü diye kontrol et  \ni sıfır i beşten küçük mü diye kontrol et  \nEğer küçükse içini çalıştır ve i bir arttır i sıfır olarak girdi  \nşu anda zaten i sıfır ve i 5'ten küçük  \nBu ilk forun kod bloğunun içine giriyor  \nikinci bir forla karşılaştı  \nşöyle bir yandan da çalışan ekran Dursun  \nikinci for da j eşittir sıfırla başlamış ve j üçten küçük mi diye kontrol ediliyor  \nher seferinde bir arttırılıyor yani bu ikinci for da üç kez çalışacak  \niçinde ne var önce i değerini yazdırıyor sonra j değerini yazdırıyor  \nşimdi birlikte adım adım çalıştıralım zaten sonuçlarda burada teyit edelim  \nşu an j 0 i değeri ise yine sıfır geldi i değeri sıfır yazdı j değeri sıfır yazdı  \nikiside sıfırda sonra ne yapıyor  \nBu ilk for bitti j bir arttır j değeri ne oldu bir oldu  \nSonra j 3'den küçük mü diye bakıyor bir üçten küçük evet oylese geliyor  \nbunu bir kez daha çalıştırıyor ama i değeri hala sıfır  \nŞu an hala ilk döngü dönüyor j değerini 1 olarak yazdırdı sonra tekrar arttırıyor  \nj değeri 2 oldu tekrar aynı şey oldu i değeri sıfır j değeri 2 ve 3 olduğunda gelir o koşula bakıyor  \n3'ten küçük mü hayır oylese bu for döngüsü bitiyor ikinci for döngüsü tekrar çalışıyor  \nne yapıyor i nin değerini bir arttırdı bir 5'ten küçük mi evet oylese buraya giriyor  \nDolayısıyla Burası üç kez daha çalışmış oluyor  \niç içe döngünün de mantığı  \ngördüğünüz gibi son derece basit burada ben bir for döngüsü içerisinde bir for döngüsü daha koyuyorum  \nBur"
+}

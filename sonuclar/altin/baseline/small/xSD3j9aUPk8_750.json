@@ -1,0 +1,10 @@
+{
+ "video_id": "xSD3j9aUPk8",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, iki for döngüsünün iç içe çalıştığını açıklıyor. İlk for döngüsü E0'dan E5'ye kadar devam ederken, ikinci for döngüsü G0'dan G3'ye kadar çalışır. Her döngüde i ve j değişkenleri artırılır ve döngüler birbiri içinde çalışır. Döngülerin içine yer verilen kod, i ve j değişkenlerini yazdırır. Ayrıca, iki değişkenin değerlerini yer değiştirmek için geçici bir değişken (temp) kullanılır. Bu, iki değişkenin iç içe yer değiştirmesini sağlar. Son olarak, bu mantığı kullanarak bubble sort algoritması açıklanır. Dizi elemanları küçükten büyüğe sıralanır.",
+ "sorular": "İlk for döngüsünde i değişkeni 0'dan başlar ve 5'ten küçük olurken çalışır mı?  \nİkinci for döngüsünde j değişkeni 0'dan başlar ve 4'ten küçük olurken çalışır mı?  \nİkinci for döngüsünde G0 ile başlar ve G3'den küçük olurken çalışır mı?"
+}

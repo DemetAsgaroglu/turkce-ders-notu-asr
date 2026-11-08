@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 480.0,
+ "bitis": 930.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bir set oluşturup eleman işlemleri yapmayı anlatıyor. Set bir adlı bir set oluşturuluyor. Setin elemanları metinsel ifadelerle erişilemiyor ve bu nedenle \"set bir[0]\" gibi bir işlem hata verir. Setin elemanları silmek için discard ve remove metodları kullanılıyor. discard, eleman yoksa hata vermezken remove, eleman yoksa hata verir. Pop metodu ile setten bir eleman çıkarılabiliyor. Clear metodu ile setin tüm elemanları silinebilir. Set, listeden farklıdır çünkü elemanlar sıralanmaz ve tekrarlı elemanlar kabul edilmez.",
+ "sorular": "Bir tane daha set oluşturalım şimdi bunun adı set bir olsun?  \nSet birin sıfırıncı elemanı dersek ne olur?  \nDiscard metodu ile 8i sildiğimizde ne olur?  \nRemove metodu ile 9u sildiğimizde ne olur?  \nSetin pop metodu ile bir elemanı nasıl çıkarırsın?  \nSeti temizlemek için hangi metot kullanılır?"
+}

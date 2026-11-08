@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1320.0,
+ "bitis": 1770.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, Yıldız ve Ampersand operatörlerinin işlevlerini ve kullanımını açıklıyor. Yıldız, bir adresin içeriğini, Ampersand ise bir değişkenin adresini ifade eder. Örneklerle, bu operatörlerin birbirine uygulandığı durumlar ve sonuçları anlatılıyor. Metin, bellek adreslerinin ve değerlerinin nasıl değiştiğini gösteren örneklerle açıklıyor. Dersin amacı, bu operatörlerin karışık kullanımını anlatmak ve kavramları daha iyi anlamak için örneklerle desteklemektir.",
+ "sorular": "Yıldız X dersem neyi anlarsınız?  \nYıldız X dersem neyi anlarsınız?  \nYıldız X dersem neyi anlarsınız?"
+}

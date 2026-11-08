@@ -1,0 +1,10 @@
+{
+ "video_id": "xSD3j9aUPk8",
+ "baslangic": 300.0,
+ "bitis": 750.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, Bubble Sort algoritmasının çalışmasını açıklıyor. Algoritma, dizinin en başından başlayarak her turda en büyük elemanı sona yerleştiriyor. İlk turda en büyük eleman sona gelir, ikinci turda ise ikinci en büyük eleman sona gelir. Her turda kontrol edilen bölge bir azaltılır. Algoritma, iç içe döngü kullanarak çalışır. Dizinin sıralanması, her turda en büyük elemanın sona gelmesiyle sağlanır.",
+ "sorular": "İkinci soru dedim ilk turda ne yaptık?  \nİkinci indeksten başladık ve ikinci indeksi birinci indeksi kıyasladık?  \nSoldaki sağdakinden büyükse yerleri değiştirdik?"
+}

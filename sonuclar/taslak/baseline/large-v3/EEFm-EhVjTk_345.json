@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 345.0,
+ "bitis": 795.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, dizi ve değişkenlerle ilgili temel konuları anlatıyor. Dizilerin adres değerini almak için ampersand operatörü kullanılır. Dizinin elemanlarını yazdırabilmek için köşeli parantez kullanılır ve indeksler 0'dan başlar. Döngüler kullanılarak dizi elemanları tek tek yazdırılabilir. Dizinin boyutu belirlenmelidir. Dizinin herhangi bir indeksine erişim sağlanabilir. Dizinin geçersiz indekslerine erişim yapılırsa hata oluşabilir.",
+ "sorular": "Bu dersin konusu dizi ve indeksle ilgili konulardır. Aşağıda metin içeriğine göre 3 Türkçe sınav sorusu yazılmıştır:\n\nprintf \"%d\" dizi 1 dediğimizde ne olur?  \n%d operatörünü kullanarak dizi 1 yazdırabiliyoruz mu?  \nDizinin 3. indeksini yazdırmak için ne yapmalıyız?"
+}

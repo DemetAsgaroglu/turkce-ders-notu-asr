@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde dizilerin indekslerinin davranışlarını açıklıyor. Beş elemanlı bir dizi tanımlandığında, dördüncü indeksi kullanıldığında sıfır gelir. Bu, dizinin boyutu dışındaki indekslerin çöp değerlerini doldurduğunu gösterir. Char dizileri, string ifadeleri için kullanılır ve her karakter bir indeksle temsil edilir. Dizinin tamamını yazdırmak için `%s` formatlayıcısı kullanılır, tek bir karakter için `%c` kullanılır. Char dizileri, doğrudan string keywordü olmayan C dilinde metinlerin yazdırılmasında kullanılır.",
+ "sorular": "İndeks değeri büyük olduğu zaman ne olur?  \nSıfır geldi mi?  \nChar dizisinde boşluklar nasıl doldurulur?"
+}

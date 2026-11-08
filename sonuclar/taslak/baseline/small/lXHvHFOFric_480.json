@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 480.0,
+ "bitis": 930.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bir set yapısının elemanlarını silme, çıkarma ve temizleme işlemleri anlatıyor. Set, bir kısmının alınamaması ve subscript yapılamaması gibi özelliklerini açıklıyor. Discard metodu, eleman yoksa hata vermez. Remove metodu, eleman yoksa KeyError verir. Pop metodu, sırayla bir eleman çıkarır. Clear metodu, seti temizler. Set, eleman silme, çıkarma ve temizleme işlemleri için özel metodlar içerir.",
+ "sorular": "Set 1’in 0’ıncı indeksi kullanılamaz mı?  \nSet 1’in 0’ıncı indeksi kullanılamaz mı?  \nSet 1’in 0’ıncı indeksi kullanılamaz mı?"
+}

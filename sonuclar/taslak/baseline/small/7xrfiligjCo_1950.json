@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1950.0,
+ "bitis": 2220.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Ders, fonksiyonların karmaşıklığı yönetmede önemli bir rol oynadığını ve kod tekrar kullanımının (kod reuse) önemini vurguluyor. Pointer'ların tanımının faydası olmayabilir, ancak bunların neden kullanıldığını anlamanın gerekliliği vurgulanıyor. Pointer'lar, fonksiyonların belirli koşullar altında yazılamayacağını anlatıyor. Fonksiyonlar, profesyonel ve düzgün programlama için zorunlu bir unsur olup, fonksiyonların yok olması programlama sürecini ciddi ölçüde etkileyecektir.",
+ "sorular": "Yıldız 2 dediğimde bir 10 cevab geldi o yüzden?  \nŞu anlatımın oturmuş olması neden önemli?  \nPointer’ı tanımlamasak bile o yararı anlamanıza katkısı olmaz mı?"
+}

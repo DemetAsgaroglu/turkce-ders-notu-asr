@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 345.0,
+ "bitis": 795.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C dilinde dizi ve değişkenlerle ilgili konuları anlatıyor. Dizilerin adreslerini ve elemanlarını printf fonksiyonu ile yazdırma yöntemleri açıklanıyor. Dizilerin indekslerinin sıfırdan başlaması, köşeli parantezlerle eleman erişimi ve döngülerle dizi elemanlarını sırasıyla yazdırma konuları vurgulanıyor. Ayrıca, dizilerin boyutunu belirlemek gerekir ve geçerli indekslerden dışındaki erişimlerde hata olmayabilir.",
+ "sorular": "İlk elemanı nasıl yazdırırız?  \nİkinci elemanı nasıl yazdırırız?  \nDizinin adresini nasıl buluruz?"
+}

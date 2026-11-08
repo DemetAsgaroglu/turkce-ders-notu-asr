@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1365.0,
+ "bitis": 1590.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bellek hücrelerinde adres ve değer ilişkilerini açıklıyor. Yıldız operatörü, bir adresin içeriğini temsil eder. Ampersand, bir değişkenin adresini verir. Yıldız x, x’in değeri 2 ise, bu 2 adresindeki değeri gösterir. Yıldız yıldız x, 2 adresindeki değeri 4 olarak yorumlanır. Yıldız yıldız yıldız x, 4 adresindeki değeri 11 olarak verir. Bu ilişkiler pointer indirection ve adres operatörlerini anlatır.",
+ "sorular": "X’in değeri ne?  \nX’in değeri 2 oluyor.  \n\nYıldız x’in değeri ne?  \nYıldız x’in değeri 2 oluyor.  \n\nYıldız yıldız x’in değeri ne?  \nYıldız yıldız x’in değeri 11 oluyor."
+}

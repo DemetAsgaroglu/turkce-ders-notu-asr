@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 345.0,
+ "bitis": 795.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, dizi ve değişkenlerle ilgili temel konuları anlatıyor. Dizilerin adreslerini ve elemanlarını ekrana yazdırma yöntemlerini açıklıyor. Printf fonksiyonu ile dizi elemanlarını ve indekslerini yazdırma işlemi anlatılıyor. Ampersand operatörüyle dizi adresini almak ve köşeli parantezlerle belirli indeksleri erişmek anlatılıyor. Döngüler kullanarak dizi elemanlarını otomatik olarak yazdırma işlemi örnekleniyor. Dizilerin boyutu belirlenerek eleman sayısı sınırlandırılması ve indeks hataları anlatılıyor.",
+ "sorular": "Ne yapmam lazım? PrintFt dedim. Integer bir değer yazdıracağım için gene %de ediyorum.  \nNe yapmam lazım? PrintFt dedim. Integer bir değer yazdıracağım için gene %de ediyorum.  \nNe yapmam lazım? PrintFt dedim. Integer bir değer yazdıracağım için gene %de ediyorum."
+}

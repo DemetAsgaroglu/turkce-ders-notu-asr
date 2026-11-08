@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 795.0,
+ "bitis": 1155.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde dizilerin indekslerinin geçerli olmaması durumunda sıfır veya çöp değerlerinin görüldüğünü açıklıyor. Dizilerin boş olan indekslerinin varsayılan olarak sıfır ile doldurulduğunu ve char dizilerinde de bu şekilde çalıştığını belirtiyor. Ayrıca, char dizileri kullanarak metinler yazdırılabileceğini ve bu durumda %C formatlayıcısının kullanılacağını anlatıyor. Dizilerin içeriğini tamamı olarak yazdırabilmek için indeks verilmediği ve doğrudan dizi adı kullanılarak yazdırıldığını da açıklayıyor.",
+ "sorular": "Sevgili arkadaşlar eğer biz dizinin indeksinden büyük bir indeksini yazıramak istersek ne görürüz?  \nSevgili arkadaşlar bir dizi tanımladığınızda C programlama dili boşlukları sıfırla dolduruyor mu?  \nChar dizisinde karakter dizisinden neyle dolduruyor?"
+}

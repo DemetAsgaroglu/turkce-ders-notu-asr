@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1770.0,
+ "bitis": 2220.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bellek hücrelerinin adreslerini ve içeriğini anlatırken yıldız ve ampersand operatörlerini kullanıyor. Değişkenler bellek hücrelerinin etiketleridir ve bu etiketlerin içeriğini anlatırlar. Fonksiyonlar, çalıştırılabilir kod parçalarıdır ve kod tekrar kullanımını sağlar. Pointer'lar, bellek adreslerini temsil eden teknik terimlerdir. Bu konular, programlama dersinde karmaşıklıkla mücadele etmek için kullanılan temel kavramlardır.",
+ "sorular": "Yıldız operatörüyle bir değişkenin adresini nasıl alırsınız?  \nAmpersand operatörüyle bir değişkenin içeriğini nasıl alırsınız?  \nDört adresinin içeriği ne anlama gelir?"
+}

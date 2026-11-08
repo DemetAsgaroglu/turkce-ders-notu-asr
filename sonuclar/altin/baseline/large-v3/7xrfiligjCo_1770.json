@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1770.0,
+ "bitis": 2220.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bellek hücrelerinin adresleri ve içeriği arasındaki farkı, yıldız ve amper sant operatörlerini kullanarak açıklıyor. Değişkenler bellek hücrelerinin etiketlerini, değerlerini ve adreslerini temsil eder. Pointer'lar, bellek hücrelerine erişim sağlar ve fonksiyonlar, kod tekrar kullanımını sağlar. Fonksiyonlar, karmaşıklığı yönetmede önemli bir araçtır. Pointer'lar, bellek hücrelerini erişmek için kullanılır.",
+ "sorular": "İlk yıldız dediğimizde ne alıyorsunuz?  \nİkinci yıldız dediğimizde ne alıyorsunuz?  \nAmper sant ve yıldız operatörlerinin yararı ne?"
+}

@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 345.0,
+ "bitis": 795.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, dizilerde adres ve indeks kullanma konularını anlatıyor. Dizinin adresini %d kullanarak yazdırabiliyoruz. Dizinin elemanlarını görüntülemek için köşeli parantez kullanıyoruz. Dizinin indekslerini 0'dan başlıyor. Döngü kullanarak dizinin tüm elemanlarını sırayla yazdırabiliyoruz. Dizinin boyutunu bilerek eleman sayısını kontrol ediyoruz. Dizinin herhangi bir indeksine müdahale edebiliyoruz.",
+ "sorular": "Bu dizi 5 elemanlıdır.  \nBu dizi 5 elemanlıdır.  \nBu dizi 5 elemanlıdır."
+}

@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1950.0,
+ "bitis": 2220.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Yıldız 2 dediğinde 10 cevap geldi. Pointer'ın tanımı ve kullanımının faydası anlatılmak isteniyor. Fonksiyonlar, kodun tekrar kullanımını sağlar ve karmaşıklığı yönetir. Pointer'ın tanımı, bellek hücrelerini ve fonksiyon adlarını anlatır. Pointer'ın amacı, veri ve eylem arasındaki farkı açıklamaktır. Fonksiyonlar olmadan programlama mümkün değildir.",
+ "sorular": "Yıldız 2 dediğimde 10 cevabı geldi. O yüzden eğer hala kafanıza oturmadıysa tekrar anlatacağım.?\n\nHocam şurayı anlamadım deyin. Tekrar anlatayım.?\n\nBunlar ne için var??\n\nPointer 'ı tanımlasak bile o yararı anlamanıza katkısı olmayacaksa tanımlamanın bir faydası olmaz.?\n\nBu neden kullanıldığını bunların anlamamız lazım.?\n\nBir fonksiyona verdiğiniz ad da çalıştırılabilir bir kod parçasının bir eylemin adı.?\n\nDeğişkenler bellek hücrelerinin etiketleri.?\n\nFonksiyonlar bizim karmaşıklığı yönetmekte kullandığımız en önemli araç değil mi??\n\nKodun tekrar kullanımı önemli ki bu sayede biz tekrar tekrar belli kodları yazmıyoruz.?\n\nTüm bunlar neye yarıyor?"
+}

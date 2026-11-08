@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1365.0,
+ "bitis": 1590.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, yıldız ve ampersand operatörlerinin işlevlerini açıklıyor. Yıldız bir adresin içeriğini temsil eder, ampersand ise bir değişkenin adresini temsil eder. Yıldız x, x’in değeri 2’dir. Yıldız 2, 2’nin adresini alır ve bu adresin içeriği 4’tür. Yıldız 4, 4’nün adresini alır ve bu adresin içeriği 11’dir. Bu örnekte, yıldız operatörü bir adresin içeriğini, ampersand operatörü ise bir değişkenin adresini temsil eder.",
+ "sorular": "X’in değeri ne?  \nYıldız operatörü ne anlama gelir?  \nAmpersand operatörü ne anlama gelir?"
+}

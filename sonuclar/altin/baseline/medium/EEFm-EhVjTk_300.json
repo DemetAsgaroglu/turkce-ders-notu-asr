@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 300.0,
+ "bitis": 750.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C dilinde dizi tanımlama ve eleman erişimi konularını anlatıyor. Bir integer dizi tanımlanarak boyutu 3 olarak belirlenip elemanlar atayarak dizi elemanlarının görüntülenmesi anlatılıyor. Dizilerin adres değerini %d formatı ile yazdırmak yerine köşeli parantezlerle indekslerle erişim sağlanıyor. Döngüler kullanılarak dizi elemanları tek tek yazdırılabiliyor. Dizinin boyutu bilinmesi gerekir, aksi halde hatalar olabilir. Dizinin herhangi bir indeksindeki değeri değiştirilebilir.",
+ "sorular": "Metininde anlatılan kavramlarla ilgili 3 Türkçe sınav sorusu şu şekilde olabilir:\n\nİlk elemanı nasıl tanımlarız?  \nİkinci elemanı nasıl tanımlarız?  \nDizinin elemanlarını nasıl görüntüleyebiliriz?"
+}

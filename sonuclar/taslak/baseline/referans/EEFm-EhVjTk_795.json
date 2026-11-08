@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 795.0,
+ "bitis": 1155.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde dizilerin indekslerinden büyük değerler yazıldığında çöp değerlerinin görüldüğünü açıklıyor. Dizilerin boş olan indekslerinin sıfır ile doldurulduğunu ve char dizilerinin boşlukları da karakter olarak kabul edildiğini belirtiyor. Char dizileriyle stringler yazdırılırken %s formatçı kullanılıyor. Dizilerin içeriğini tamamı olarak görüntülemek için indeks verilmez. Char dizileri, doğrudan string türünde bir değişkeni olmayan C dilinde metinlerin yazdırılmasında kullanılır.",
+ "sorular": "Sefer de ne gelecek on geldi şimdi burada göstermek istediğim durum?  \nEğer biz dizinin indeksinden büyük bir indeksi yazdırmak istersek çöp değer görürüz?  \nBu adresteki ram'de daha önce kalmış olan çöp değer görürüz?  \nSiz bir dizi tanımladığınızda C programlama dili boşlukları varsayılan değer olarak sıfırla dolduruyor?  \nChar dizisinde karakter dizisinde neyle dolduruyor?  \nC programlama dilinde doğrudan string tipinde bir değişken tipimiz yok mu?  \nChar dizisinin içindeki değeri olduğu gibi görmek istiyorum nasıl yapabilirim?  \nC programlama dilinde boşluk da bir karakter olarak kabul edilir mi?  \nC programlama dilinde bir metin yazdırmak istiyorsak char dizisi tanımlamamız gerekiyor mu?"
+}

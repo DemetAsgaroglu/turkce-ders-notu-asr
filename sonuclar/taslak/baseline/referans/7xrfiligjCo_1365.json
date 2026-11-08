@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1365.0,
+ "bitis": 1590.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C dilinde yıldız (pointer) ve ampersand (adres) operatörlerinin kullanımı ve davranışlarını açıklıyor. Yıldız operatörü, bir değişkenin adresini ifade eder ve pointer indirection operatörüyle değeri alır. Ampersand operatörü, bir değişkenin adresini verir. Örneklerle, yıldız ve ampersand operatörlerinin birlikte kullanımı ve sonucu açıklanıyor. Metin, printf fonksiyonu ile adres ve değerin nasıl görüntüleneceğini de anlatıyor.",
+ "sorular": "Ben on olmaz değil mi?  \nX’in adresini kastettiniz herhalde?  \nYıldızlı değil bakın çok basit?  \nX’in değeri kaç?  \nİki?  \nBir sayı olarak değil mi?  \nBir olduğu gibi iki diye yorumlayacağız?  \nYıldız iki dediğimizde o yıldız operatörü nasıl yorumluyor?  \nOnu başına geldiği şeyi adres olarak yorumluyor?  \nDolayısıyla iki adresindeki değeri görüntüleyecek?  \nBu değil mi?  \nİki adresinde ne değeri var?  \nBurada dört var?  \nYani printf %d ile bunu görüntülemeye çalıştığında ne çıkıyor?  \nYıldız ampersand ampersand yıldız yıldız x?  \nBu ne yapacaksınız?  \nYıldız yıldız x ne anlama geliyor?  \nSonucu ne?  \nYıldız yıldız iki sorsaydım size on bir değeri olacak değil mi?  \nX iki bir yıldız x yıldız iki dolayısıyla iki adresinin içeriği o da dört?  \nBu durumda yıldız dört oldu?  \nYıldız dört ne oldu on bir?  \nAmpersand on bir oluyor değil mi?"
+}

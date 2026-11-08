@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 930.0,
+ "bitis": 1380.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, set ve liste veri yapıları arasındaki farkları ve avantajlarını açıklıyor. Sette eleman tekrar olamaz ve sıralama yoktur, bu nedenle bellekte daha esnek bir yapıya sahiptir. Listelerde ise sıralama ve indeksle erişim mümkündür. Set, eleman eklerken tekrarlamaz ve bellekte daha rahat çalışır. Set, sıralı hale getirilirse liste türünde olur, ancak bu işlem orijinal seti değiştirmez. Set, eleman ekleme, temizleme ve güncelleme gibi işlemlerle kullanılabilir. Set, sıralı hale getirilirse bir liste olur, ancak bu, setin kendisini değiştirmez.",
+ "sorular": "Setin içeriği boş olup olmadığını kontrol ederken ne yapabiliriz?  \nSetin içeriğini sıralı hale getirmek için ne yapabiliriz?  \nSetin sıralı hale gelmesiyle ilgili bir fonksiyonun adı nedir?"
+}

@@ -1,0 +1,10 @@
+{
+ "video_id": "xSD3j9aUPk8",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, iki for döngüsünün iç içe çalıştığını açıklıyor. İlk for döngüsünde i değişkeni 0'dan 4'e kadar artıyor. İkinci for döngüsünde j değişkeni 0'dan 3'e kadar artıyor. İçerisinde i ve j değerlerini yazdırıyor. Döngülerin içinde iki değişkenin değerlerini değiştirmek için geçici bir değişken (temp) kullanıyor. Bu, iki değişkenin değerlerini yer değiştirmek için gerekli. Ayrıca, dizi elemanlarını Bubble Sort algoritmasıyla sıralamak için bu döngüler kullanılıyor. Dizinin uzunluğu 5 olduğundan, ilk for döngüsünde i < 5, ikinci döngüde j < 5 - i - 1 koşulları kullanılıyor.",
+ "sorular": "Şöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor.  \nŞöyle koda bakacak olursak ilk for giriyor i0 i5'den küçük mü diye kontrol ediyor."
+}

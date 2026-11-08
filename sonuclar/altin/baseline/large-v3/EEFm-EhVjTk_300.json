@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 300.0,
+ "bitis": 750.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, dizi tanımlama, dizi elemanlarına erişim ve döngü kullanarak dizi elemanlarını yazdırma konularını anlatıyor. Integer dizi tanımlanıyor, dizi elemanları indislerle erişiliyor, printf fonksiyonu ile dizi elemanları yazdırılıyor. Döngü kullanılarak dizi elemanları otomatik olarak yazdırılıyor. Dizilerin boyutu belirlenerek eleman sayısı sınırlandırılıyor. Dizinin herhangi bir indeksindeki değeri değiştirilebiliyor.",
+ "sorular": "Metin: 4 dedikten sonra gelip sırasıyla sıfırıncı eleman bu, birinci eleman bu, ikinci eleman bu, üçüncü eleman da bu şeklinde tanımlama yapabilirsiniz. Evet sintaksları gördükten sonra gelin birlikte bir integer dizi tanımlayalım. Bunun ismi int dizi 1 olsun. Geldim bunun bir dizi olduğu anlamına gelen köşeli parantezlerimi açtım kapattım. Ve ben peşinen bu dizinin boyutunu 3 olarak belirlemek istiyorum. Geldim buraya 3 yazdım. Şöyle noktalı virgülümü koydum. Şimdi bu diziye sırasıyla 3 tane eleman koyacağım. Geliyorum dizi 1 dedim köşeli parantezlerimi açtım. Sıfırıncı eleman örneğin 5 olsun. Sonra şunu kopyalayayım Her seferinde tek tek yazmakla uğraşmayalım Devamında ne olacak Birinci eleman ve ikinci eleman Bu da mesela 15 olsun Bu da 35 olsun örneğin Şimdi gelip burada Dizimizin elemanlarını sırasıyla Görüntülemek istediğimizi düşünelim Ne yapmam lazım printf dedim Integer bu değer yazdıracağım için Yine %d diyorum burada herhangi bir değişiklik yok Virgül dedikten sonra Normalde değişken geldiğinde ne yapıyordum Örneğin doğrudan dizi 1 diyordum Fakat burada doğrudan dizi 1 dersem ne olur bakalım birlikte deneyelim. Bu dizinin adres değeri geliyor arkadaşlar. Burada gelen değer bu dizimizin RAM'deki adres değeri. Bunu da nasıl kanıtlayabiliriz? Bizim bir operatörümüz vardı hatırlarsanız. Ampersand operatörü adresi anlamına geliyordu. Scanf fonksiyonunun içerisinde kullanıyorduk. Mesela burada gelip başına bunun Ampersand koyduğumuzda yine aynı son"
+}

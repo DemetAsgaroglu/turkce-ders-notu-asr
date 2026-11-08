@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 480.0,
+ "bitis": 930.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bir set yapısının özelliklerini ve metodlarını açıklıyor. Set1 adlı bir set oluşturulurken metinsel ifadeler ve sayılar bir arada tutulur. Set nesnesi bir indexte erişilemaz olduğu için hata verir. Setten eleman silmek için discard ve remove metodları kullanılır. Discard eleman yoksa hata vermez, remove ise eleman yoksa hata verir. Pop metoduyla bir eleman çıkarılır ve alınıp başka bir değişkene atılabilir. Set temizlenmek istendiğinde clear metodu kullanılır.",
+ "sorular": "Set 1’in sıfırıncı elemanı nedir?  \nSet 1’in 8 elemanını silmek için hangi metodu kullanırız?  \nSet 1’in 9 elemanını silmek için hangi metodu kullanırız?"
+}

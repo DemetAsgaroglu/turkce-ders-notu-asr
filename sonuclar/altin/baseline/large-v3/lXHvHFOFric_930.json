@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 930.0,
+ "bitis": 1380.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, set ve listeler arasındaki farkları, sıralama ve indeks konusunda açıklıyor. Sette eleman tekrarı olmaz ve sıralama yoktur, ancak bellekte daha esnek bir yapıya sahiptir. Set, listeye göre daha hızlı çalışabilir. Set eleman eklendiğinde, listeye göre tüm elemanları yeniden sıralamak zorundadır. Set ise herhangi bir yere sokuşturulabilir. Set, tekrarlamayan elemanlar içerir. Set, update metodu ile çoklu eleman ekleyebilir. Set, sorted() metodu ile sıralı hale getirilebilir, ancak bu sıralama yeni bir liste oluşturur. Set, sıralı hale getirildiğinde list türünde olur. Set, sıralı hale getirildiğinde, yeni bir değişken üretir. Set, sıralı hale getirildiğinde, kendisini değiştirmez.",
+ "sorular": "Set 1 'in değeri sadece eksi 2 burada komple silinmişti setin içerisi boşaltılmıştı?  \nSet 1 'i update edelim.  \nSet 1 'in sıralı hali ne olur?"
+}

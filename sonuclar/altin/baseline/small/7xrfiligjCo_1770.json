@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1770.0,
+ "bitis": 2220.0,
+ "kaynak": "small",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, yıldız ve ampersan operatörlerinin bellek adreslerini ve içeriğini temsil ettiğini açıklıyor. Değişkenler bellek hücrelerini etiketleyen pasif verileri, fonksiyonlar ise çalıştırılabilir kod parçalarını temsil ediyor. Bu operatörler, bellek adresi ve içeriği arasındaki farkı anlatıyor. Fonksiyonlar, kod tekrar kullanımını sağlayarak karmaşıklığı azaltıyor. Pointer'lar, fonksiyonların yazılmasında önemli bir rol oynuyor.",
+ "sorular": "İlk yıldız değil mi bunu bir adres olarak yorumluyor?  \nİkinci yıldız dediğimizde bir 10 cevab geldi o yüzden?  \nAmpersan getirdiğinizde sorulan sorune bu örnekte dört değil, sıfır olsaydı iki tane sıfır var hangisini alacağız sonra?"
+}

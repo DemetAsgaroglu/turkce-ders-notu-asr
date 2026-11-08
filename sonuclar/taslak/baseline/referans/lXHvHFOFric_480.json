@@ -1,0 +1,10 @@
+{
+ "video_id": "lXHvHFOFric",
+ "baslangic": 480.0,
+ "bitis": 930.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, bir set yapısının özelliklerini ve metodlarını açıklıyor. Set bir, bir tane metinsel ifade ile başlanıyor ve elemanlar sırayla ekleniyor. Setin elemanları metinsel ifadelerle erişilemiyor, indisiyle erişilemiyor. Discard metodu, elemanı silerken hata vermez, remove ise eleman yoksa hata verir. Pop metodu, bir elemanı siler ve alır. Clear metodu, seti temizler. Set, tekrar eden elemanları içermez.",
+ "sorular": "Set bir deyince bir tane metinsel ifade ile başlıyoruz?  \nSet birin sıfırıncı elemanı ne olur?  \nSet birin içindeki elemanları nasıl temizleriz?"
+}

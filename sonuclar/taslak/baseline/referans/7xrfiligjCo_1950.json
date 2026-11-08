@@ -1,0 +1,10 @@
+{
+ "video_id": "7xrfiligjCo",
+ "baslangic": 1950.0,
+ "bitis": 2220.0,
+ "kaynak": "referans",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Ders, fonksiyonların karmaşıklıkla mücadele etmede en önemli araç olduğunu anlatıyor. Fonksiyonlar, kodun tekrar kullanılmasını sağlayarak code reuse sağlıyor. Fonksiyonlar, değişkenlerin bellek hücrelerini temsil eden adlarla tanımlanıyor. Pointer, fonksiyonların tanımlanmasında ve kullanımı sırasında önemli bir kavram. Pointer, bellek hücrelerini belirten bir yapıdır. Fonksiyonlar, kodun tekrar tekrar kullanılmasını sağlar ve programlama dersinde önemli bir konudur.",
+ "sorular": "Sorular:\n\nSözünüzde belirttiğinizde, fonksiyonlar neden önemlidir?  \nSözünüzde belirttiğinizde, fonksiyonlar ne işe yarar?  \nSözünüzde belirttiğinizde, fonksiyonlar nasıl kod tekrar kullanımını sağlar?"
+}

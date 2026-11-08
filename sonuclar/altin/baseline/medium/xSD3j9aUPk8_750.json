@@ -1,0 +1,10 @@
+{
+ "video_id": "xSD3j9aUPk8",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, iki for döngüsünün iç içe çalıştığını açıklıyor. İlk for döngüsünde i 0'dan 4'e kadar artar, ikinci for döngüsünde j 0'dan 3'e kadar artar. Her döngüde i ve j değerleri yazdırılır. Döngüler, birbirine bağlı olarak çalışır. İkinci for döngüsünde 3 kez çalışır. Döngülerin mantığı basit olup, iç içe döngülerin kullanımı anlatılır. Ayrıca, iki değişkenin değerlerini yer değiştirmek için geçici bir değişken kullanılır.",
+ "sorular": "Şöyle koda bakacak olursak.  \nŞu anda zaten i0 ve i5'ten küçük.  \nBirlikte adım adım çalıştıralım.  \nŞu an j -0, i değeri ise yine 0.  \nBir yağı satıra geçsin.  \nBunu sonra ters slash 'a ekliyorum.  \nA 'nın değeri 5, B 'nin değeri 10.  \nBunu sonra ters slash 'a ekliyorum.  \nA 'nın değeri 10 olmuş olur.  \nBunu sonra ters slash 'a ekliyorum.  \nİkinci bir forla karşılaştı.  \nBunu sonra ters slash 'a ekliyorum.  \nBir tane dizi tanımlayalım.  \nİlk döngümüz, for, i eşittir, sıfır.  \nİkinci bir for döngüsü iç içe döngü ana for döngüsün içine bir for döngü daha koyuyorum."
+}

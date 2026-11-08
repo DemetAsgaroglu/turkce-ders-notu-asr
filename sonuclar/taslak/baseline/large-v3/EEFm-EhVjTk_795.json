@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 795.0,
+ "bitis": 1155.0,
+ "kaynak": "large-v3",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde dizi ve karakter dizileri ile ilgili konuları anlatıyor. Dizinin indeksinden büyük bir değer yazdırıldığında, çöp değer (0) görülebiliyor. C dilinde diziler, tanımlandığında boşluklar varsayılan olarak sıfırla dolduruluyor. Char dizileri ise tırnak içindeki metin karakterlerini birer indeks olarak algılar. Metin yazdırılırken %s formatlayıcısı kullanılır. Char dizileri, doğrudan string olarak kullanılamaz, ancak karakter dizileri ile metinler yazdırılabilir.",
+ "sorular": "Ne zaman bir dizi tanımlarız, C programlama dilinde boşluklar varsayılan olarak sıfırlarla doldurulur mu?  \nNe zaman bir dizi tanımlarız, C programlama dilinde boşluklar varsayılan olarak sıfırlarla doldurulur mu?  \nNe zaman bir dizi tanımlarız, C programlama dilinde boşluklar varsayılan olarak sıfırlarla doldurulur mu?"
+}

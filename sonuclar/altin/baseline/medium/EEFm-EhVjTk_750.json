@@ -1,0 +1,10 @@
+{
+ "video_id": "EEFm-EhVjTk",
+ "baslangic": 750.0,
+ "bitis": 1200.0,
+ "kaynak": "medium",
+ "llm": "Qwen/Qwen3-4B",
+ "max_new_tokens": 500,
+ "ozet": "Metin, C programlama dilinde diziler ve stringlerle ilgili konuları anlatıyor. Beş elemanlı bir dizi tanımlanmışsa, son index 4 olur. Dizinin indeksinden büyük bir indeks yazdırılırsa, çöp değeri (0) gelir. Dizinin bazı indexleri boşsa, C dilinde bu boşluklar sıfır ile doldurulur. Stringlerde ise boşluklar ters slash ile doldurulur. Stringler, char dizileri ile yazdırılır. Stringin tamamını yazdırabilmek için %s formatlayıcısı kullanılır. Tek bir karakter yazdırabilmek için %c formatlayıcısı kullanılır. Stringler, köşeli parantezlerle indeksle erişilebilir.",
+ "sorular": "Ne zaman bir dizi tanımladığımızda, dizinin son index'i 4 olmasına rağmen beşinci indexi yazdırdığımızda ne olur?  \nNe zaman bir dizi tanımladığımızda, dizinin son index'i 4 olmasına rağmen beşinci indexi yazdırdığımızda ne olur?  \nNe zaman bir dizi tanımladığımızda, dizinin son index'i 4 olmasına rağmen beşinci indexi yazdırdığımızda ne olur?"
+}
