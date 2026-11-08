@@ -43,7 +43,7 @@ Cümle sonuna nokta konur. Metrik hesabında noktalama, apostrof ve büyük harf
 
 ## Çalışma sırası
 
-1. Varsa elle yazılmış altyazı başlangıç metni olarak alınır. Yoksa boş başlanır veya hangi metinden başlandığı kayıt tablosuna yazılır.
+1. Başlangıç metni `veri/taslak_referans/<video_id>.tsv` dosyasıdır. Bu metin YouTube otomatik altyazısından gelir ve sesi dinlenmeden yalnızca bağlamdan düzeltilmiştir, bu yüzden altın sayılmaz. Dosya `veri/altin_transkript/` klasörüne kopyalanarak çalışılır.
 2. Kayıt baştan sona dinlenir ve metin bu kurallara göre düzeltilir.
 3. Terimlerin geçtiği yerler ikinci kez dinlenir.
 4. Whisper çıktısına bakarak düzeltme yapılmaz, çünkü referans değerlendirilen sistemden etkilenmemelidir.
@@ -57,4 +57,5 @@ Her video için `veri/altin_transkript/<video_id>.tsv` dosyası hazırlanır. He
 | `baslangic` | Başlangıç saniyesi | 120.0 |
 | `bitis` | Bitiş saniyesi | 165.5 |
 | `cs` | İngilizce kelime varsa `var`, yoksa `yok` | var |
+| `guven` | Taslakta bağlamdan düzeltmenin güveni. Dinlenip düzeltilen satırda `yuksek` yapılır | yuksek |
 | `metin` | Altın metin | array'in boyutunu tutuyoruz. |

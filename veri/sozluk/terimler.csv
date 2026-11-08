@@ -1,4 +1,4 @@
-terim,varyantlar,dil
+﻿terim,varyantlar,dil
 array,,en
 stack,,en
 queue,,en
@@ -54,3 +54,41 @@ nesne,,tr
 sıralama,,tr
 bellek,,tr
 çizge,graf,tr
+set,,en
+tuple,,en
+discard,,en
+remove,,en
+clear,,en
+add,,en
+update,,en
+sorted,,en
+type,,en
+key error,,en
+print,,en
+printf,,en
+scanf,,en
+int,,en
+char,,en
+float,,en
+double,,en
+for,,en
+ram,,en
+syntax,,en
+ampersand,,en
+indirection,,en
+top,,en
+null,,en
+code reuse,,en
+complexity,,en
+run,,en
+random,,en
+eleman,,tr
+liste,,tr
+metot,metod,tr
+indis,,tr
+adres,,tr
+parantez,,tr
+küme,,tr
+operatör,,tr
+karakter,,tr
+yıldız,,tr
